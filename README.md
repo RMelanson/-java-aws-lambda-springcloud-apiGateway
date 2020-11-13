@@ -1,1 +1,1 @@
-# -java-aws-lambda-springcloud-apiGateway
+# java-aws-lambda-springcloud-apiGateway
